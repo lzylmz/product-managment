@@ -1,0 +1,17 @@
+ListMin
+RemoveMin
+DecreasePrice product1 5
+Add product1 156.56
+Add product2 45.00
+Add product3 245.99
+Add product4 99.70
+RemoveMin
+Add product2 20.60
+ListMin
+Add product5 70.17
+Add product6 10.10
+ListMin
+RemoveMin
+ListMin
+DecreasePrice product1 150
+ListMin
